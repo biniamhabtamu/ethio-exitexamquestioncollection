@@ -1,1 +1,101 @@
 
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-02-26",
+  "questions": {
+    "cs-computer-programming": [
+      {
+        "id": "cs_prog_1",
+        "question": "What is the output of console.log(typeof [])?",
+        "options": ["array", "object", "undefined", "null"],
+        "correctAnswer": 1,
+        "explanation": "In JavaScript, arrays are objects. typeof [] returns 'object'.",
+        "difficulty": "medium"
+      },
+      {
+        "id": "cs_prog_2",
+        "question": "Which is not a programming language?",
+        "options": ["Python", "Java", "HTML", "C++"],
+        "correctAnswer": 2,
+        "explanation": "HTML is a markup language, not a programming language.",
+        "difficulty": "easy"
+      },
+      {
+        "id": "cs_prog_3",
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Core Processing Unit"],
+        "correctAnswer": 0,
+        "explanation": "CPU stands for Central Processing Unit, the brain of the computer.",
+        "difficulty": "easy"
+      }
+    ],
+    "nursing-foundation-i": [
+      {
+        "id": "nurs_1",
+        "question": "What is the normal adult resting heart rate?",
+        "options": ["40-50 bpm", "60-100 bpm", "100-120 bpm", "120-140 bpm"],
+        "correctAnswer": 1,
+        "explanation": "Normal adult resting heart rate is 60-100 beats per minute.",
+        "difficulty": "easy"
+      },
+      {
+        "id": "nurs_2",
+        "question": "Which of the following is a vital sign?",
+        "options": ["Blood pressure", "Height", "Weight", "Hair color"],
+        "correctAnswer": 0,
+        "explanation": "Blood pressure is one of the four main vital signs along with temperature, pulse, and respiratory rate.",
+        "difficulty": "easy"
+      }
+    ],
+    "civil-construction-materials": [
+      {
+        "id": "civil_1",
+        "question": "Which material is commonly used as a binder in concrete?",
+        "options": ["Cement", "Sand", "Gravel", "Water"],
+        "correctAnswer": 0,
+        "explanation": "Cement acts as the binder that holds the aggregates together in concrete.",
+        "difficulty": "easy"
+      }
+    ],
+    "mech-engineering-materials-i": [
+      {
+        "id": "mech_1",
+        "question": "What is the unit of stress?",
+        "options": ["Newton", "Pascal", "Joule", "Watt"],
+        "correctAnswer": 1,
+        "explanation": "Stress is measured in Pascals (Pa), which is force per unit area (N/m²).",
+        "difficulty": "medium"
+      }
+    ],
+    "it-web-technologies": [
+      {
+        "id": "it_1",
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyper Transfer Markup Language", "Home Tool Markup Language"],
+        "correctAnswer": 0,
+        "explanation": "HTML stands for Hyper Text Markup Language, the standard language for creating web pages.",
+        "difficulty": "easy"
+      }
+    ],
+    "se-fundamentals-programming": [
+      {
+        "id": "se_1",
+        "question": "Which programming paradigm focuses on objects and classes?",
+        "options": ["Functional", "Procedural", "Object-Oriented", "Logical"],
+        "correctAnswer": 2,
+        "explanation": "Object-Oriented Programming (OOP) uses objects and classes to organize code.",
+        "difficulty": "medium"
+      }
+    ],
+    "mgmt-intro-management": [
+      {
+        "id": "mgmt_1",
+        "question": "Which of the following is a function of management?",
+        "options": ["Planning", "Selling", "Marketing", "Accounting"],
+        "correctAnswer": 0,
+        "explanation": "Planning is one of the primary functions of management, along with organizing, leading, and controlling.",
+        "difficulty": "easy"
+      }
+    ]
+  }
+}
